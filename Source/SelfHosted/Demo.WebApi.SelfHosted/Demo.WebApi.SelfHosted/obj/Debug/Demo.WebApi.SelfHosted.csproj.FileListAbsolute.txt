@@ -1,0 +1,14 @@
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\Demo.WebApi.SelfHosted.exe.config
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\Demo.WebApi.SelfHosted.exe
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\Demo.WebApi.SelfHosted.pdb
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\Newtonsoft.Json.dll
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Web.Http.dll
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\Newtonsoft.Json.xml
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Web.Http.xml
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\obj\Debug\Demo.WebApi.SelfHosted.csprojResolveAssemblyReference.cache
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\obj\Debug\Demo.WebApi.SelfHosted.exe
+C:\Development.Personal\Github\Demo.WebApi\Source\SelfHosted\Demo.WebApi.SelfHosted\Demo.WebApi.SelfHosted\obj\Debug\Demo.WebApi.SelfHosted.pdb
