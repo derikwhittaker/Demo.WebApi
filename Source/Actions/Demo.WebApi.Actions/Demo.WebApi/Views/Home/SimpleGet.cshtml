@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "SimpleGet";
+}
+
+<div id="body">
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Simple Get Demo</h1>
+            </hgroup>
+        </div>
+    </section>
+    <section class="content-wrapper main-content clear-fix">
+        <br />
+        <br />
+        <br />
+        <span data-bind="text: SimpleGetResult"></span>
+        <br /> 
+        <input type="button" value="Get Simple Results" data-bind="click: simpleGet" />
+    </section>
+</div>
+
+@section scripts
+{
+    <script type="text/javascript">
+        (function () {
+            var vm = new IndexViewModel();
+            ko.applyBindings(vm);
+        })();
+    </script>
+}

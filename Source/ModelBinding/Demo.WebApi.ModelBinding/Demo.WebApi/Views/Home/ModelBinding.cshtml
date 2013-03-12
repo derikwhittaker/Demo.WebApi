@@ -1,0 +1,58 @@
+﻿
+<div id="body">
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Model Binding Demo</h1>
+            </hgroup>
+        </div>
+    </section>
+    <section class="content-wrapper main-content clear-fix">
+        <br />
+        <h2> Model Binding </h2>
+        <br />
+        <br />
+        <span data-bind="text: FirstName"></span>
+        <br /> 
+        <span data-bind="text: LastName"></span>
+        <br /> 
+         <span data-bind="text: FullName" style="color: red"></span>
+        <br />
+        <input type="button" value="Model Bind" data-bind="click: bindingPut" />
+        
+        <h2> Model Binding -- Over Posting</h2>
+        <br />
+        <br />
+        <span data-bind="text: FirstName"></span>
+        <br /> 
+        <span data-bind="text: LastName"></span>
+        <br /> 
+        <span data-bind="text: MiddleName"></span>
+        <br /> 
+         <span data-bind="text: FullName" style="color: red"></span>
+        <br />
+        <input type="button" value="Model Bind" data-bind="click: overBindingPut" />
+              
+        <h2> Model Binding -- Validation</h2>
+        <br />
+        <br />
+        <span data-bind="text: FirstName"></span>
+        <br /> 
+        <span data-bind="text: LastName"></span>
+        <br /> 
+         <span data-bind="text: FullName" style="color: red"></span>
+        <br />
+        <input type="button" value="Model Bind" data-bind="click: validationBindingPut" />
+    </section>
+</div>
+
+@section scripts
+{
+    <script type="text/javascript">
+        (function () {
+            var vm = new ModelBindingViewModel();
+            ko.applyBindings(vm);
+        })();
+    </script>
+}
+
